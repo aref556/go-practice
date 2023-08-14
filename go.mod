@@ -1,4 +1,4 @@
-module github.com/aref556/hello
+module github.com/aref556/go-practice
 
 go 1.20
 
