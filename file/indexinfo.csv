@@ -1,0 +1,15 @@
+﻿Region,Exchange,Index,Currency
+United Stated of America,New York Store,NYA,USD
+United Stated of Kingdom,NASDAQ Store,IXIC,USD
+Hongkong,Hong kong Store,HSI,HKD
+China,Shanghai Store,000001.55Z,CNY
+Japan,Tokye Store,N225,JPY
+Europe,Euronext Store,N100,EUR
+China,Shenzhen Store,399001.5Z,CNY
+Canada,Toronto Store,GSPISE,CAD
+India,National Store,NSEI,INR
+Germany,Frankfurt Store,GDAXI,EUR
+Korea,Korea Exchange Store,KS11,KRW
+Switzerland,SIX Swiss Exchange Store,SSMI,CHF
+Taiwan,Taiwan Store,TWII,TWD
+South Africa,Johannesb Strore,J203.IO,ZAR
